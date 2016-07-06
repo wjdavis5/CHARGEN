@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CHARGEN": {
+      "commandName": "Project",
+      "commandLineArgs": "--Port 20400 --CharGen Random"
+    }
+  }
+}
